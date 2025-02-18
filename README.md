@@ -1,1 +1,1 @@
-First experiment done! (mostly done). The data isn't in tables yet bc I am not sure of the format, but I made it into a nice graph
+Student Led Project, focused on  testing CHSH inequality and through it examining measurement settings for partially and maximally entangled states. The theoretical approach can be located in the Theory folder, and the final code used for experiments can be found in 'Experiment 1' and 'Bells inequality entanglement change' folders. The full paper can be viewed in Bell's Inequality_REPORT file.
