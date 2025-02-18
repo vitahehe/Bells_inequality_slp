@@ -1,2 +1,1 @@
-# Bells_inequality_slp
-Student led project, aims to derive and test CHSC inequality using IBM. 
+First experiment done! (mostly done). The data isn't in tables yet bc I am not sure of the format, but I made it into a nice graph
